@@ -5,8 +5,8 @@ This project involves creating a comprehensive data engineering pipeline using M
 
 ## Steps Involved
 
-### 1. Data Ingestion
-**Tool Used:** Azure Data Factory
+### 1. Data Ingestion 
+**Tool Used:** ![Azure Data Factory] (https://github.com/VamshiKrishnaKatika/Analytics-Pipeline-for-Olympic-Data-Using-MS-Azure/blob/main/End%20to%20End%20Pipeline%20for%20ADF.jpeg)
 
 **Description:**
 - Developed a dynamic pipeline to transfer raw data from an on-premise SQL Server to Azure Data Lake Storage Gen2.
